@@ -1,0 +1,207 @@
+Country,Year,PSPMPRBS
+Albania,2021,92.12
+Argentina,2013,32.5
+Argentina,2019,31.9
+Austria,2011,97.1
+Austria,2016,97.59
+Austria,2021,95.92
+Azerbaijan,2011,81.86
+Azerbaijan,2016,80.79
+Azerbaijan,2021,67.43
+Bahrain,2016,69.37
+Bahrain,2021,71.18
+Belgium,2016,97.42
+Belgium,2021,94.31
+Benin,2014,22.7
+Benin,2019,45.5
+Bolivia (Plurinational State of),2017,15.2
+Botswana,2013,68.5
+Brazil,2013,36.8
+Brazil,2019,43.5
+Bulgaria,2011,93.05
+Bulgaria,2016,94.79
+Bulgaria,2021,92.88
+Burkina Faso,2014,21.4
+Burkina Faso,2019,33
+Burundi,2014,7.4
+Burundi,2019,4.5
+Côte d'Ivoire,2014,22.4
+Côte d'Ivoire,2019,22
+Cambodia,2019,11
+Cameroon,2014,24.1
+Cameroon,2019,30.2
+Canada,2011,97.75
+Canada,2016,95.74
+Canada,2021,98.78
+Chad,2014,3
+Chad,2019,7.6
+Chile,2013,58.4
+"China, Hong Kong Special Administrative Region",2011,99.19
+"China, Hong Kong Special Administrative Region",2016,98.6
+"China, Hong Kong Special Administrative Region",2021,98.28
+"China, Macao Special Administrative Region",2016,97.6
+"China, Macao Special Administrative Region",2021,95.92
+Colombia,2013,38.7
+Colombia,2019,37.5
+Congo,2014,17.1
+Congo,2019,33.6
+Costa Rica,2013,49.6
+Costa Rica,2019,54
+Croatia,2011,99
+Croatia,2021,98.08
+Cuba,2019,44.5
+Cyprus,2021,91.79
+Czechia,2011,98.25
+Czechia,2016,97.04
+Czechia,2021,96.01
+Democratic Republic of the Congo,2019,9.2
+Dominican Republic,2013,8
+Dominican Republic,2019,16.4
+Ecuador,2013,23.7
+Ecuador,2019,26.1
+Egypt,2021,44.57
+El Salvador,2019,29.4
+Eswatini,2013,84.3
+Finland,2011,99.2
+Finland,2016,98.29
+Finland,2021,96.48
+France,2011,95.27
+France,2016,93.72
+France,2021,93.86
+Gabon,2019,76.3
+Georgia,2011,86.49
+Georgia,2016,86.48
+Georgia,2021,87.16
+Germany,2011,97.61
+Germany,2016,94.51
+Germany,2021,93.59
+Guatemala,2013,19.4
+Guatemala,2019,15.9
+Guinea,2019,22.2
+Honduras,2013,15.8
+Honduras,2019,16.2
+Hungary,2011,94.64
+Hungary,2016,97.14
+Hungary,2021,94.13
+Indonesia,2011,66.23
+Iran (Islamic Republic of),2011,75.74
+Iran (Islamic Republic of),2016,65.99
+Iran (Islamic Republic of),2021,58.6
+Israel,2011,93.16
+Israel,2016,91.02
+Israel,2021,87.96
+Italy,2011,97.66
+Italy,2016,97.86
+Italy,2021,97.18
+Jordan,2021,46.64
+Kazakhstan,2016,98.09
+Kazakhstan,2021,90.7
+Kenya,2021,46.7
+Kenya,2023,25.5
+Kuwait,2011,58.37
+Lao People's Democratic Republic,2019,2
+Latvia,2016,99.2
+Latvia,2021,94.29
+Lesotho,2013,48.5
+Lesotho,2023,10.8
+Lithuania,2011,96.53
+Lithuania,2016,97.27
+Lithuania,2021,97.11
+Madagascar,2015,4.2
+Madagascar,2019,6.3
+Malawi,2013,15.3
+Malaysia,2019,58
+Malta,2011,78.2
+Malta,2016,73.17
+Malta,2021,90.24
+Mauritius,2013,75.4
+Mexico,2013,42.6
+Mexico,2019,41.7
+Montenegro,2021,86.91
+Morocco,2011,21.01
+Morocco,2016,33.12
+Morocco,2021,40.58
+Mozambique,2013,36.3
+Myanmar,2019,11
+Namibia,2013,61.2
+Netherlands,2011,99.55
+Netherlands,2016,98.69
+Netherlands,2021,96.45
+New Zealand,2011,91.69
+New Zealand,2016,89.97
+New Zealand,2021,89.88
+Nicaragua,2013,14.6
+Nicaragua,2019,13
+Niger,2014,2.1
+Niger,2019,14.4
+North Macedonia,2021,69.96
+Oman,2011,47.42
+Oman,2016,59.06
+Oman,2021,62.2
+Panama,2013,21.2
+Panama,2019,17.5
+Paraguay,2013,15.8
+Paraguay,2019,18.8
+Peru,2013,31.3
+Peru,2019,49
+Philippines,2019,10
+Poland,2011,94.58
+Poland,2016,98.01
+Poland,2021,97.21
+Portugal,2011,97.59
+Portugal,2016,97.01
+Portugal,2021,94.18
+Qatar,2011,59.67
+Qatar,2016,66.18
+Qatar,2021,80.39
+Romania,2011,85.93
+Russian Federation,2011,99.05
+Russian Federation,2016,99.11
+Russian Federation,2021,98.36
+Saudi Arabia,2011,64.99
+Saudi Arabia,2016,63.33
+Saudi Arabia,2021,71.07
+Senegal,2014,34.8
+Senegal,2019,41.1
+Serbia,2021,92.8
+Seychelles,2013,79.9
+Singapore,2011,96.79
+Singapore,2016,97.25
+Singapore,2021,96.66
+Slovakia,2011,95.75
+Slovakia,2016,93.45
+Slovakia,2021,93.65
+Slovenia,2011,95.47
+Slovenia,2016,96.32
+Slovenia,2021,94.38
+South Africa,2013,57.2
+Spain,2011,93.87
+Spain,2016,96.57
+Spain,2021,95.23
+Sweden,2011,97.59
+Sweden,2016,98.07
+Sweden,2021,95.28
+Türkiye,2021,85.89
+Togo,2014,15.8
+Togo,2019,19.4
+Trinidad and Tobago,2011,78
+Trinidad and Tobago,2016,80.34
+Uganda,2013,50.5
+United Arab Emirates,2011,63.98
+United Arab Emirates,2016,67.57
+United Arab Emirates,2021,75.03
+United Kingdom of Great Britain and Northern Ireland,2011,95.37
+United Kingdom of Great Britain and Northern Ireland,2016,96.83
+United Kingdom of Great Britain and Northern Ireland,2021,97.03
+United Republic of Tanzania,2013,60.6
+United States of America,2011,97.52
+United States of America,2016,96.09
+United States of America,2021,94.51
+Uruguay,2013,43.5
+Uruguay,2019,43.8
+Uzbekistan,2021,69.84
+Viet Nam,2019,82
+Zambia,2016,1.8
+Zambia,2021,2.3
+Zambia,2023,9.7
+Zimbabwe,2013,45.4
